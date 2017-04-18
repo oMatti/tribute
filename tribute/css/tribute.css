@@ -1,0 +1,27 @@
+.padding-top-20{
+  padding-top: 20px;
+}
+body{
+  background-color: rgba(189, 195, 199, 0.52);
+  margin: 0 auto;
+}
+.first{
+  font-size: 12px;
+}
+.jumbotron{
+  margin-top: 70px;
+height: 100%;
+}
+.border-white-1{
+  outline: 10px solid white;
+}
+.padding-bot-20{
+padding-bottom: 20px;
+}
+.ultralist{
+margin: 0 auto;
+text-align: center;
+}
+.nice-to-1{
+  padding-top: 30px;
+}
